@@ -1,2 +1,2 @@
 # sri-hash
-Command line tool for creating SRI hash from files
+Sri-hash is a command line tool for creating [sub-resource integrity hashes](https://www.srihash.org) from files or URLs.
